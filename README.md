@@ -1,4 +1,5 @@
 # UK Local Authority Greenhouse Gas Emissions Dashboard
+![UK GHG Emissions Dashboard](dashboard_screenshot.png)
 
 ## Purpose
 Interactive Excel dashboard analysing UK greenhouse gas emissions by local authority, region, sector, and year (2005–2024), built as a companion piece to my MSc thesis project (Carbon Policy Insights, an XAI decision support system built in Python/Flask/React). Where that project used ML models globally across 142 countries, this one drills into UK-specific data using advanced Excel: Power Query, Power Pivot, DAX, and interactive dashboarding.
